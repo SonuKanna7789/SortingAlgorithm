@@ -1,4 +1,4 @@
-﻿//Nikhil
+﻿//Nikhil k
 namespace SortingAlgorithm
 {
     internal class Program
@@ -6,7 +6,7 @@ namespace SortingAlgorithm
         
         public static void Main(string[] args)
         {
-            int[] input_array = { 3, 62, 5, 16, 4, 10 };
+            int[] input_array = { 3, 62, 5, 16, 4, 10,99 };
             Bubble_Sort(input_array);
             foreach (int element in input_array)
             {

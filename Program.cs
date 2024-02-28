@@ -1,4 +1,4 @@
-﻿//Nikhil kacham 400pm
+﻿//Nikhil kacham 400pms
 namespace SortingAlgorithm
 {
     internal class Program

@@ -1,4 +1,5 @@
-﻿namespace SortingAlgorithm
+﻿//Nikhil
+namespace SortingAlgorithm
 {
     internal class Program
     {
